@@ -141,6 +141,10 @@
   https://github.com/PolymerLabs/redux-helpers  
   Small utilities from the Polymer project to help integrate Redux into a web components app
   
+  **redux-store-element**
+  https://github.com/lastmjs/redux-store-element
+  A custom element allowing a more declarative use of Redux.
+  
 
 #### Other
 
@@ -214,4 +218,4 @@
   
 - **glace**  
   https://github.com/Fordi/glace  
-  Glac� aspires to be a simple, fast, small, and elegant view layer for simple Redux-based apps. Its templates are entirely well-formed XML fragments and it outputs real DOM in real time.
+  Glacé aspires to be a simple, fast, small, and elegant view layer for simple Redux-based apps. Its templates are entirely well-formed XML fragments and it outputs real DOM in real time.
